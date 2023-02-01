@@ -1,3 +1,3 @@
 # balance-increment-starknet
 
-This is starknet contract wriiten with cairo, test written with cairo using protostar.
+This is starknet contract written with cairo, test written with cairo using protostar.
