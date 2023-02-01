@@ -1,0 +1,18 @@
+### Declare transaction was sent.
+Class hash: 0x02d31add12c93ab5dd38664a0f078fcc5b7cfa0cf5763390c0648e0751e9981d
+StarkScan https://testnet.starkscan.co/class/0x02d31add12c93ab5dd38664a0f078fcc5b7cfa0cf5763390c0648e0751e9981d
+Voyager   https://goerli.voyager.online/class/0x02d31add12c93ab5dd38664a0f078fcc5b7cfa0cf5763390c0648e0751e9981d
+
+Transaction hash: 0x070b9646847aeea561930df3cc1faecd3a82643f278ed7607f55b8213c375bb4
+StarkScan https://testnet.starkscan.co/tx/0x070b9646847aeea561930df3cc1faecd3a82643f278ed7607f55b8213c375bb4
+Voyager   https://goerli.voyager.online/tx/0x070b9646847aeea561930df3cc1faecd3a82643f278ed7607f55b8213c375bb4
+
+
+### Invoke transaction was sent to the Universal Deployer Contract.
+Contract address: 0x06118d8d0d75f8051c660858b6bdbdd26bde6cdd4b65fa250e243869ea49709a
+StarkScan https://testnet.starkscan.co/contract/0x06118d8d0d75f8051c660858b6bdbdd26bde6cdd4b65fa250e243869ea49709a
+Voyager   https://goerli.voyager.online/contract/0x06118d8d0d75f8051c660858b6bdbdd26bde6cdd4b65fa250e243869ea49709a
+
+Transaction hash: 1748468302053471947459057836071922162108456243985327860540045146452411527236
+StarkScan https://testnet.starkscan.co/tx/0x03dd9915cd765c89b02f7a7c24e26084d533cf7a7683b6d1ef0018ee9a4bb044
+Voyager   https://goerli.voyager.online/tx/0x03dd9915cd765c89b02f7a7c24e26084d533cf7a7683b6d1ef0018ee9a4bb044
