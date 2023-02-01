@@ -1,3 +1,3 @@
-# balance-increment-starknet
+# Cairo Contracts
 
-This is starknet contract written with cairo, test written with cairo using protostar.
+This contains starknet programs written with cairo.
